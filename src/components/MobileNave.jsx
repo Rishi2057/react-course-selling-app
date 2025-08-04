@@ -5,7 +5,7 @@ import { IoIosSearch } from "react-icons/io";
 function MobileNave() {
   return (
     <>
-            <div className="flex justify-center">
+            <div className="w-full flex justify-center">
              <div className="flex w-full md:hidden fixed z-50 bottom-0 min-h-auto justify-between  bg-white shadow-2xl">
              
         
