@@ -1,4 +1,4 @@
-erimport React from 'react'
+import React from 'react'
 import navlogo from '/navlogo.png'
 import { IoIosSearch } from "react-icons/io";
 
