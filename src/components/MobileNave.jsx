@@ -10,7 +10,7 @@ function MobileNave() {
              
         
                 <div className="w-full">
-                  <ul className="flex justify-evenly items-center gap-10 text-slate-500 hover:text-slate-900 p-7">
+                  <ul className="flex justify-between items-center gap-10 text-slate-500 hover:text-slate-900 p-7">
                     <a href="#home"><li className="text-sm md:text-slate-500 hover:text-slate-900 md:text-xl font-extrabold">HOME</li></a>
                     <a href="#about"><li className="text-sm md:text-slate-500 hover:text-slate-900 md:text-xl font-extrabold">ABOUT</li></a>
                     <a href="#courses"><li className="text-sm md:text-slate-500 hover:text-slate-900 md:text-xl font-extrabold">COURSES</li></a>
