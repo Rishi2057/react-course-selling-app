@@ -6,9 +6,7 @@ function MobileNave() {
   return (
     <>
              <section className="flex w-full md:hidden fixed z-50 bottom-0 min-h-auto justify-between  bg-white shadow-2xl">
-                <div className="pt-3 ps- pb-3 md:p-5">
-               
-                </div>
+             
         
                 <div className="w-full">
                   <ul className="flex justify-evenly items-center gap-10 text-slate-500 hover:text-slate-900 p-7 me-20">
@@ -18,11 +16,7 @@ function MobileNave() {
                     <a href="#contact"><li className="text-sm md:text-slate-500' hover:text-slate-900 md:text-xl font-extrabold">CONTACT</li></a>
                   </ul>
                 </div>
-                <div className="hidden md:flex my-5 me-5">
-                  <button
-                    className="md:flex bg-blue-600 rounded hover:bg-blue-500 text-white pt-2 px-10 h-10"><a
-                      href="">SIGNIN</a></button>
-                </div>
+               
               </section>
     </>
   )
