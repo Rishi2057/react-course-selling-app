@@ -6,7 +6,7 @@ function MobileNave() {
   return (
     <>
             <div className="w-full flex justify-center px-5">
-             <div className="flex w-full md:hidden fixed z-50 bottom-0 min-h-auto justify-center  bg-white shadow-2xl">
+             <div className="flex w-full md:hidden fixed z-50 bottom-0 min-h-auto justify-center px-10 py-5  bg-white shadow-2xl">
              
         
                 <div className="w-full">
