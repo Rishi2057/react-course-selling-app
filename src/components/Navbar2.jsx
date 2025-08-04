@@ -14,7 +14,7 @@ function Navbar2() {
                 </div>
                
                 <div className="ps-10 md:ps-0  md:w-1/2 w-50 lg:w-50   md:flex  justify-center py-5 md:py-6">
-                   <input className='bg-white  px-3 py-2 md:w-[25rem] rounded absolute border' type="text" placeholder='search' />
+                   <input className='bg-white w-full  px-3 py-2 md:w-[25rem] rounded absolute border' type="text" placeholder='search' />
                    <button className='text-xl left-50 md:left-45 top-2 md:top-0.5 cursor-pointer relative'><IoIosSearch /></button>
                 </div>
                 
